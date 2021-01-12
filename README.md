@@ -4,16 +4,14 @@ This repo is where TechLit defines it's linux images and the build processes for
 
 ### Goals
 
-    1. TODO
+### Roadmap
 
-### TODO
-
-    _. Import Legacy Clonezilla Process
-      _. import existing clonezilla images to public Google Drive
-      _. automate legacy clonezilla process with Vagrant
-      _. configure virtualbox networking for server-client development
-
-    _. Import 2019 Arch Build Scripts into Vagrant
-
-    _. 2021 Create debian build scripts
-      _. TODO
+- [ ] Import Legacy Clonezilla Process
+    - [ ] import existing clonezilla images to public Google Drive
+    - [ ] automate legacy clonezilla process with Vagrant
+    - [ ] configure virtualbox networking for server-client development
+--
+- [ ] Import 2019 Arch Build Scripts into Vagrant
+--
+- [ ] 2021 Create debian build scripts
+    - [ ] TODO
